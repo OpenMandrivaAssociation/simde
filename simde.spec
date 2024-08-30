@@ -1,5 +1,5 @@
 Name:           simde
-Version:        0.8.0
+Version:        0.8.2
 Release:        1
 Summary:        SIMD instruction sets for systems which don't natively support them
 License:        MIT
